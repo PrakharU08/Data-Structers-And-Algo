@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BuyandSellStock",
+            "request": "launch",
+            "mainClass": "BuyandSellStock",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountInversion",
+            "request": "launch",
+            "mainClass": "CountInversion",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NextPermutation",
+            "request": "launch",
+            "mainClass": "NextPermutation",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MergeIntervals",
+            "request": "launch",
+            "mainClass": "MergeIntervals",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - KaddensAlgo",
+            "request": "launch",
+            "mainClass": "KaddensAlgo",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SortingArrayWithoutExtraSpace",
+            "request": "launch",
+            "mainClass": "SortingArrayWithoutExtraSpace",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DupInAnArray",
+            "request": "launch",
+            "mainClass": "DupInAnArray",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MaxSumSubarray",
+            "request": "launch",
+            "mainClass": "MaxSumSubarray",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RotationOfArray",
+            "request": "launch",
+            "mainClass": "RotationOfArray",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UnnionIntersectionOfArray",
+            "request": "launch",
+            "mainClass": "UnnionIntersectionOfArray",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NegativElementToOneSide",
+            "request": "launch",
+            "mainClass": "NegativElementToOneSide",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SortingWithoutAlgo",
+            "request": "launch",
+            "mainClass": "SortingWithoutAlgo",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - kMaxMean",
+            "request": "launch",
+            "mainClass": "kMaxMean",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MinMaxArr",
+            "request": "launch",
+            "mainClass": "MinMaxArr",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReverseArray<DSA_38826589>",
+            "request": "launch",
+            "mainClass": "ReverseArray",
+            "projectName": "DSA_38826589"
+        }
+    ]
+}
