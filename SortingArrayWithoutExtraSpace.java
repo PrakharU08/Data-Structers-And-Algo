@@ -4,7 +4,7 @@ public class SortingArrayWithoutExtraSpace{
     {
         int[] arr ={5,6,7,8,9};
         int[] arr2 = {1,2,3};
-        int[] b = new int[arr.length+arr2.length];
+       /* int[] b = new int[arr.length+arr2.length];
         int flag =0;
         for(int i =0;i<arr.length;i++)
         {
@@ -31,6 +31,28 @@ public class SortingArrayWithoutExtraSpace{
         }
 
 
+        for(int i =0;i<arr.length;i++)
+        {
+            System.out.print(arr[i]+" ");
+        }
+        System.out.println();
+        for(int i =0;i<arr2.length;i++)
+        {
+            System.out.print(arr2[i]+" ");   
+        }
+        */
+        for(int i =0;i<arr.length;i++)
+        {
+            if(arr[i]>arr2[0])
+
+            {
+                int temp = arr[i];
+                arr[i] = arr2[0];
+                arr2[0] = temp;
+
+                Arrays.sort(arr2);
+            }
+        }
         for(int i =0;i<arr.length;i++)
         {
             System.out.print(arr[i]+" ");

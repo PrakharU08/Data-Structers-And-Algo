@@ -6,6 +6,167 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - BinarySearchAlgo",
+            "request": "launch",
+            "mainClass": "BinarySearchAlgo",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MedianOF2dArray",
+            "request": "launch",
+            "mainClass": "MedianOF2dArray",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SearchElementInMatrix",
+            "request": "launch",
+            "mainClass": "SearchElementInMatrix",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MatrixTraversal",
+            "request": "launch",
+            "mainClass": "MatrixTraversal",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MedianOfArrayTest",
+            "request": "launch",
+            "mainClass": "MedianOfArrayTest",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MedianOfArrayWithN",
+            "request": "launch",
+            "mainClass": "MedianOfArrayWithN",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MergeOperationForPallindrome",
+            "request": "launch",
+            "mainClass": "MergeOperationForPallindrome",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreeWayPartition",
+            "request": "launch",
+            "mainClass": "ThreeWayPartition",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SmallestSubWithSumGreaterThenK",
+            "request": "launch",
+            "mainClass": "SmallestSubWithSumGreaterThenK",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChoclateDistribution",
+            "request": "launch",
+            "mainClass": "ChoclateDistribution",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TrappingRain",
+            "request": "launch",
+            "mainClass": "TrappingRain",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TripletSum",
+            "request": "launch",
+            "mainClass": "TripletSum",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayisAsubsetofanotherArray",
+            "request": "launch",
+            "mainClass": "ArrayisAsubsetofanotherArray",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ElementsAppearingNbyktimes",
+            "request": "launch",
+            "mainClass": "ElementsAppearingNbyktimes",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LongestCOnsecutiveSubArray",
+            "request": "launch",
+            "mainClass": "LongestCOnsecutiveSubArray",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Random",
+            "request": "launch",
+            "mainClass": "Random",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SubarrayWithMaxProduct",
+            "request": "launch",
+            "mainClass": "SubarrayWithMaxProduct",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BigNumberFactorial",
+            "request": "launch",
+            "mainClass": "BigNumberFactorial",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SubArrayWithSumzero",
+            "request": "launch",
+            "mainClass": "SubArrayWithSumzero",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IntroToSets",
+            "request": "launch",
+            "mainClass": "IntroToSets",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AlternatePositiveNegative",
+            "request": "launch",
+            "mainClass": "AlternatePositiveNegative",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CommonEleInSortedArray",
+            "request": "launch",
+            "mainClass": "CommonEleInSortedArray",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PairWithGivenSum",
+            "request": "launch",
+            "mainClass": "PairWithGivenSum",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - BuyandSellStock",
             "request": "launch",
             "mainClass": "BuyandSellStock",

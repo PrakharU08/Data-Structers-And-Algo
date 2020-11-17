@@ -1,4 +1,3 @@
-import java.util.Arrays;
 public class BuyandSellStock {
     public static void main(String[] args) {
         int minprice = Integer.MAX_VALUE;

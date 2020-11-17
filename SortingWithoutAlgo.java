@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class SortingWithoutAlgo {
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
-        int[] a = {0,1,1,0,1,2,1,2,1,0};
+        int[] a = {2,1,1,0,1,2,1,2,1,1};
         int low = 0 ;
         int mid = 0 ;
         int high = a.length-1;
