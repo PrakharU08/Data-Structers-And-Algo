@@ -6,6 +6,167 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SmallestWindowDistinct",
+            "request": "launch",
+            "mainClass": "SmallestWindowDistinct",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ValidIP",
+            "request": "launch",
+            "mainClass": "ValidIP",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MinSwapForBracketBalancing",
+            "request": "launch",
+            "mainClass": "MinSwapForBracketBalancing",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Flips",
+            "request": "launch",
+            "mainClass": "Flips",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LCP",
+            "request": "launch",
+            "mainClass": "LCP",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RomantoInteger",
+            "request": "launch",
+            "mainClass": "RomantoInteger",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountStringIn2dArray",
+            "request": "launch",
+            "mainClass": "CountStringIn2dArray",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BracketReversal",
+            "request": "launch",
+            "mainClass": "BracketReversal",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - KMPalgo",
+            "request": "launch",
+            "mainClass": "KMPalgo",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RabinKarp",
+            "request": "launch",
+            "mainClass": "RabinKarp",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BalancedParenthisis",
+            "request": "launch",
+            "mainClass": "BalancedParenthisis",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NextGreaterNumber",
+            "request": "launch",
+            "mainClass": "NextGreaterNumber",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SplitString",
+            "request": "launch",
+            "mainClass": "SplitString",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SubsequenceOfaString",
+            "request": "launch",
+            "mainClass": "SubsequenceOfaString",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LongestPallindromicSubaarrayBruteForce",
+            "request": "launch",
+            "mainClass": "LongestPallindromicSubaarrayBruteForce",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - countandsay",
+            "request": "launch",
+            "mainClass": "countandsay",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Shufflecheck",
+            "request": "launch",
+            "mainClass": "Shufflecheck",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RotationOfString",
+            "request": "launch",
+            "mainClass": "RotationOfString",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DuplicateChar",
+            "request": "launch",
+            "mainClass": "DuplicateChar",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringPallindrom",
+            "request": "launch",
+            "mainClass": "StringPallindrom",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReversingaString",
+            "request": "launch",
+            "mainClass": "ReversingaString",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RowWithMax1s",
+            "request": "launch",
+            "mainClass": "RowWithMax1s",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - BinarySearchAlgo",
             "request": "launch",
             "mainClass": "BinarySearchAlgo",
