@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch String96",
+            "request": "launch",
+            "mainClass": "String96",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch DuplicateStringremoval",
+            "request": "launch",
+            "mainClass": "DuplicateStringremoval",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MinimumWIndowSubstrin",
+            "request": "launch",
+            "mainClass": "MinimumWIndowSubstrin",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - anagram",
+            "request": "launch",
+            "mainClass": "anagram",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CharactertobeaddedForPallindrom",
+            "request": "launch",
+            "mainClass": "CharactertobeaddedForPallindrom",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RearrangeString",
+            "request": "launch",
+            "mainClass": "RearrangeString",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SmallestWindowDistinct",
             "request": "launch",
             "mainClass": "SmallestWindowDistinct",
