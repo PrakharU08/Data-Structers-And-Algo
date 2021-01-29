@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TrippletWithSumLessThanX",
+            "request": "launch",
+            "mainClass": "TrippletWithSumLessThanX",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfNoTwoAdjEle",
+            "request": "launch",
+            "mainClass": "SumOfNoTwoAdjEle",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch Foursum",
+            "request": "launch",
+            "mainClass": "Foursum",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch PairWithGivenDiffrence",
+            "request": "launch",
+            "mainClass": "PairWithGivenDiffrence",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearcgingInAnArray",
+            "request": "launch",
+            "mainClass": "SearcgingInAnArray",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch Majorityelement",
+            "request": "launch",
+            "mainClass": "Majorityelement",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch swapsort",
+            "request": "launch",
+            "mainClass": "swapsort",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch SqaureRootBinarySearch",
+            "request": "launch",
+            "mainClass": "SqaureRootBinarySearch",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchInRotatedArray",
+            "request": "launch",
+            "mainClass": "SearchInRotatedArray",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstAndLastOcuu",
+            "request": "launch",
+            "mainClass": "FirstAndLastOcuu",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch isomorphic",
+            "request": "launch",
+            "mainClass": "isomorphic",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch TransfromationOfString",
+            "request": "launch",
+            "mainClass": "TransfromationOfString",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
             "name": "Launch String96",
             "request": "launch",
             "mainClass": "String96",
