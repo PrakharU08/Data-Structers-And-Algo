@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DoubleHelix",
+            "request": "launch",
+            "mainClass": "DoubleHelix",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch MissingNumberAp",
+            "request": "launch",
+            "mainClass": "MissingNumberAp",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch EKOSPOJ",
+            "request": "launch",
+            "mainClass": "EKOSPOJ",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch BookAllocation",
+            "request": "launch",
+            "mainClass": "BookAllocation",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch AggressiveCow",
+            "request": "launch",
+            "mainClass": "AggressiveCow",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindPivot",
+            "request": "launch",
+            "mainClass": "FindPivot",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch KthElementOfTwoSortedArray",
+            "request": "launch",
+            "mainClass": "KthElementOfTwoSortedArray",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch KSmallestNumberAgain",
+            "request": "launch",
+            "mainClass": "KSmallestNumberAgain",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch BishooAndSoldier",
+            "request": "launch",
+            "mainClass": "BishooAndSoldier",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortAnArrayWithMinSwap",
+            "request": "launch",
+            "mainClass": "SortAnArrayWithMinSwap",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProductArrayPuzzel",
+            "request": "launch",
+            "mainClass": "ProductArrayPuzzel",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch Subarraywithsymzero",
+            "request": "launch",
+            "mainClass": "Subarraywithsymzero",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
             "name": "Launch TrippletWithSumLessThanX",
             "request": "launch",
             "mainClass": "TrippletWithSumLessThanX",

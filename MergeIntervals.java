@@ -60,10 +60,10 @@ public class MergeIntervals
         input.add(new Interval(2,6));
         input.add(new Interval(8,10));
         input.add(new Interval(8,9));
-        input.add(new Interval(9,11));
-        input.add(new Interval(15,18));
-        input.add(new Interval(2,4));
-        input.add(new Interval(16,17));
+        //input.add(new Interval(9,11));
+        //input.add(new Interval(15,18));
+        //input.add(new Interval(2,4));
+        //input.add(new Interval(16,17));
 
         List<Interval> output = merge(input);
 
