@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch mergesort",
+            "request": "launch",
+            "mainClass": "mergesort",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch LLIntersectionOfTwoSorted",
+            "request": "launch",
+            "mainClass": "LLIntersectionOfTwoSorted",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Debug(Launch) LLAddTwoNumberRepresentedAsLL",
+            "request": "launch",
+            "mainClass": "LLAddTwoNumberRepresentedAsLL",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch LLAddTwoNumberRepresentedAsLL",
+            "request": "launch",
+            "mainClass": "com.vscode.demo.LLAddTwoNumberRepresentedAsLL",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch LLAddOneNumber",
+            "request": "launch",
+            "mainClass": "LLAddOneNumber",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch LLLastNodeFront",
+            "request": "launch",
+            "mainClass": "LLLastNodeFront",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch LLDuplicateInUnsorted",
+            "request": "launch",
+            "mainClass": "LLDuplicateInUnsorted",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch LLDuplicateInSorted",
+            "request": "launch",
+            "mainClass": "LLDuplicateInSorted",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseLinklistInKGroups",
+            "request": "launch",
+            "mainClass": "ReverseLinklistInKGroups",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch abstraction",
+            "request": "launch",
+            "mainClass": "abstraction",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch OOPsPractice",
+            "request": "launch",
+            "mainClass": "OOPsPractice",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch StrinAss",
+            "request": "launch",
+            "mainClass": "StrinAss",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
             "name": "Launch DoubleHelix",
             "request": "launch",
             "mainClass": "DoubleHelix",
