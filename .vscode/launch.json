@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LLDoubleTripletSum",
+            "request": "launch",
+            "mainClass": "LLDoubleTripletSum",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch LLDoubleTwoPairSum",
+            "request": "launch",
+            "mainClass": "LLDoubleTwoPairSum",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch LLCircularRev",
+            "request": "launch",
+            "mainClass": "LLCircularRev",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch LLCircular",
+            "request": "launch",
+            "mainClass": "LLCircular",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch LLPallindrom",
+            "request": "launch",
+            "mainClass": "LLPallindrom",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch LLtest",
+            "request": "launch",
+            "mainClass": "LLtest",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch LLMergeSort",
+            "request": "launch",
+            "mainClass": "LLMergeSort",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
             "name": "Launch MergeSort",
             "request": "launch",
             "mainClass": "MergeSort",

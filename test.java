@@ -1,13 +1,19 @@
 public class test {
     public static void main(String args[])
     {
-        int a = 5;
-        int p = 9;
-        if(a>5)
+        int i =1;
+        while(i!=7 )
         {
-            p++;
+            if(i==4)
+            {
+                System.out.println("Yes");
+            }
+            else
+            {
+                System.err.println("No");
+            }
+            i++;
         }
-        System.out.print("p="+p);
     }
     
 }

@@ -2,6 +2,8 @@ class Node
 {
     public Node(int data2) {
     }
+    public Node(Node first) {
+    }
     Node next;
     int data;
 }
