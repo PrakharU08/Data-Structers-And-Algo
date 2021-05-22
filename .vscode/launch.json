@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CycleInUndirectedGraphUsingBfs",
+            "request": "launch",
+            "mainClass": "GraphStructure.CycleInUndirectedGraphUsingBfs",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch CycleInUndirectedGraphUsingDfs",
+            "request": "launch",
+            "mainClass": "GraphStructure.CycleInUndirectedGraphUsingDfs",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch DFS",
+            "request": "launch",
+            "mainClass": "GraphStructure.DFS",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bfs",
+            "request": "launch",
+            "mainClass": "GraphStructure.Bfs",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch Add",
+            "request": "launch",
+            "mainClass": "GraphStructure.Add",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch Add",
+            "request": "launch",
+            "mainClass": "Add",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch BredthFirstSearch",
+            "request": "launch",
+            "mainClass": "BredthFirstSearch",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch GraphAdjacencyListUsingHashMap",
+            "request": "launch",
+            "mainClass": "GraphAdjacencyListUsingHashMap",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch BFS",
+            "request": "launch",
+            "mainClass": "BFS",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch SecondLargestInArray",
+            "request": "launch",
+            "mainClass": "SecondLargestInArray",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOFTwoLargeNumber",
+            "request": "launch",
+            "mainClass": "SumOFTwoLargeNumber",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch LLDoubleReverseInGroup",
+            "request": "launch",
+            "mainClass": "LLDoubleReverseInGroup",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch LLDoubleRev",
+            "request": "launch",
+            "mainClass": "LLDoubleRev",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedListReverseKgroup",
+            "request": "launch",
+            "mainClass": "LinkedListReverseKgroup",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
+            "name": "Launch LLDoubleRotateByK",
+            "request": "launch",
+            "mainClass": "LLDoubleRotateByK",
+            "projectName": "DSA_38826589"
+        },
+        {
+            "type": "java",
             "name": "Launch LLDoubleTripletSum",
             "request": "launch",
             "mainClass": "LLDoubleTripletSum",

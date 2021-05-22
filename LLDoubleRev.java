@@ -8,26 +8,20 @@ public class LLDoubleRev {
         obj.add(9);
         obj.add(10);
         Node1 head = obj.head;
-        Node1 temp = head;
-        while(temp.next!=null)
+        Node1 cur = head;
+        Node1 temp = null;
+        Node head1 = null;
+        while(cur!=null)
         {
-            temp = temp.next;
-        }
-        Node1 head1 = temp;
-        Node1 cur = temp;
-        //2<-->3<-->2<-->3<-->2<-->3
-        while(cur.prev != null)
-        {
-            cur.next = cur.prev;
+            temp = cur.prev;
+            cur.prev = cur.next;
+            cur.next = temp;
             cur = cur.prev;
-            if(cur.prev == null )
-            {
-                cur.next = null;
-            }
-
-        }    
-
-        Node1 f = head1;
+        }
+            
+        if(temp!=null)
+            head=temp.prev;
+        Node1 f = head;
         while(f!=null)
         {
             System.out.println(f.data);

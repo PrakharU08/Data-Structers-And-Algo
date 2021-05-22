@@ -1,9 +1,5 @@
 class Node
 {
-    public Node(int data2) {
-    }
-    public Node(Node first) {
-    }
     Node next;
     int data;
 }
@@ -59,6 +55,7 @@ class LinkedListReverseKgroup
             if(next!=null)
             {
                 head.next = reversegroup(next, k);
+                
             }
         }
 

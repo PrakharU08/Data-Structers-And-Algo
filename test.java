@@ -1,19 +1,20 @@
 public class test {
-    public static void main(String args[])
-    {
-        int i =1;
-        while(i!=7 )
+    public static void main(String[] args) {
+        int arr[] = {0,1,0,1,1,0,1,0,1,0,1,1,0,1,1,0,1};
+        int count =0;
+        for(int i = 1;i<arr.length;i++)
         {
-            if(i==4)
+            int j = i-1; int k = i+1;
+            if(k<arr.length)
             {
-                System.out.println("Yes");
+                if(arr[j] == 0 && arr[k] == 0 && arr[i]==1)
+                {
+                    count++;
+                    System.out.println(i);
+                }
+                
             }
-            else
-            {
-                System.err.println("No");
-            }
-            i++;
         }
+        System.out.println(count);
     }
-    
 }
